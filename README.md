@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/26336086/README.1.md)
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Aprelino!+%F0%9F%91%8B;Desenvolvedor+Web+%7C+Front-end+%26+Back-end;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%7C+UNIP;Apaixonado+por+tecnologia+e+solu%C3%A7%C3%B5es+reais+%F0%9F%9A%80)
